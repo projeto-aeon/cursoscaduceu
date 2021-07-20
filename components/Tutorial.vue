@@ -2,6 +2,6 @@
 <template>
   <div class="relative flex items-top justify-center min-h-screen bg-gray-100 sm:items-center sm:pt-0">
     <h1>Em construção</h1>
-    <h2>Em breve uma nova experiência de publicidade e desenvolvimento</h2>
+    <h2>Em breve uma nova experiência de publicidade e desenvolvimento.</h2>
   </div>
 </template>
