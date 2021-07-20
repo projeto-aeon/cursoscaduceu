@@ -1,12 +1,15 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
+  // router: {
+  //   base: '/caduceuartes/'
+  // },
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
     title: 'caduceuartes',
     htmlAttrs: {
-      lang: 'en'
+      lang: 'pt-br'
     },
     meta: [
       { charset: 'utf-8' },
@@ -15,12 +18,16 @@ export default {
       { name: 'format-detection', content: 'telephone=no' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      {rel:"stylesheet", href:"https://rsms.me/inter/inter.css"}
+
     ]
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    'normalize.css/normalize.css',
+    "~/assets/global.css"
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
