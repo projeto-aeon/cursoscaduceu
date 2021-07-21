@@ -13,8 +13,8 @@
     <div class="flex flex-row">
       <p class="text-xl px-2">|</p>
       <a href="mailto:contato@caduceuartes.com.br"><img class="w-7 secondary-collor" src="~assets/images/icons/email_black.svg" alt=""></a>
-      <a href="#"><img class="w-7 secondary-collor" src="~assets/images/icons/facebook_black.svg" alt=""></a>
-      <a href="#"><img class="w-7 secondary-collor" src="~assets/images/icons/instagram.svg" alt=""></a>
+      <a href="https://www.facebook.com/caduceuartes/"><img class="w-7 secondary-collor" src="~assets/images/icons/facebook_black.svg" alt=""></a>
+      <a href="https://www.instagram.com/caduceuartes/"><img class="w-7 secondary-collor" src="~assets/images/icons/instagram.svg" alt=""></a>
       <a href="https://api.whatsapp.com/send?phone=5518996145924"><img class="w-7 secondary-collor" src="~assets/images/icons/whatsapp.svg" alt=""></a>
     </div>
     </div>
