@@ -6,8 +6,8 @@
     <div class="flex" style="width: 90vw; height: 5vw; padding-top: 3vw;">
     <ul class="">
       <a class="p-1" href="/">Home</a>
-      <a class="p-1" href="#">Sobre Nós</a>
-      <a class="p-1" href="#">Serviços</a>
+      <a class="p-1" href="#sobre">Sobre Nós</a>
+      <a class="p-1" href="#servicos">Serviços</a>
     </ul>
       <div class="flex-grow"></div>
     <div class="flex flex-row">

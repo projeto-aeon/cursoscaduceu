@@ -1,8 +1,29 @@
-
+html{
+  --main-color: #000;
+  --secondary-collor: #ffde59;
+  --thirdy-color: rgb(255, 131, 59);
+}
 .primary-collor{
-  color: #000;
+  color: var(--main-color);
 }
 .secondary-collor{
-  color:#ffde59;
-  fill:#ffde59;
+  color:var(--secondary-collor);
+  fill:var(--secondary-collor);
+}
+p, ul, li, a{
+  font-size: 1.5vw
+}
+h1, h2, h3, h4{
+  font-size: 3vw;
+}
+svg {
+  transition: all 1s;
+  width: 3vw;
+  height: 3vw;
+}
+  svg:hover{
+    fill: var(--secondary-collor);
+  }
+hr {
+  border: none;
 }

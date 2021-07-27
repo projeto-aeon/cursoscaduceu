@@ -1,9 +1,7 @@
 export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
-  // router: {
-  //   base: '/caduceuartes/'
-  // },
+
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -30,6 +28,11 @@ export default {
     "~/assets/global.css"
   ],
 
+  image: {
+    // Options
+    dir: 'assets/images'
+  },
+
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
   ],
@@ -44,6 +47,7 @@ export default {
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
     '@nuxtjs/svg',
+    '@nuxt/image',
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules

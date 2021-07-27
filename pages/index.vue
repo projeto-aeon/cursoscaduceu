@@ -1,7 +1,9 @@
 <template>
 <div>
   <Principal />
-  <Tutorial />
+  <Equipe />
+  <Sobre />
+  <Servicos />
 </div>
 </template>
 
