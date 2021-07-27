@@ -1,9 +1,9 @@
 <template>
   <div>
     <div class="flex flex-row flex-wrap w-100">
-    <img class="w-32" src="~/assets/images/caduceucaduceu.png" alt="">
+    <img class="w-1/12" style="height: 8.33vw;" src="~assets/images/caduceucaduceu.png" alt="">
       <div class="flex-grow"></div>
-    <div class="flex w-10/12 py-9">
+    <div class="flex" style="width: 90vw; height: 5vw; padding-top: 3vw;">
     <ul class="">
       <a class="p-1" href="/">Home</a>
       <a class="p-1" href="#">Sobre Nós</a>
@@ -19,12 +19,11 @@
     </div>
     </div>
     </div>
-    <img class="w-full" src="~assets/images/caduceubanner.png" alt="">
+    <img class="w-full" src="~assets/images/fundos/caduceubanner.jpg" alt="">
   </div>
 </template>
-<script lang="ts">
-import Vue from 'vue';
-export default Vue.extend({
+<script>
+export default {
 
-})
+}
 </script>
