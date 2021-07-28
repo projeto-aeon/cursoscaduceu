@@ -1,5 +1,5 @@
 <template>
-<section style="background-color: #000; padding: 4vw;">
+<section style="background-color: #000; padding: 4vw;" >
   <h1 style="color:#fff; margin: 0px;">SOBRE NÓS</h1>
   <hr style="width: 80vw; height: 2vw; background-color: #fff; margin-left: 5vw; margin-top: 2vw;" />
   <div style="display: flex; flex-direction: row; justify-content: space-between;" >
