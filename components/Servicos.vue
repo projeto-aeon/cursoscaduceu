@@ -1,7 +1,7 @@
 <template>
   <section class="container w-3/5 text-justify" style="padding-top: 4vw; padding-left: 4vw;">
   <hr style="height: 10vw;" />
-  <h2>Nossos clientes e parceiros</h2>
+  <h2 id="servicos">Nossos clientes e parceiros</h2>
   <div style="display: flex; flex-direction: row; justify-content: space-between;" >
   <div style="padding: 2vw;" v-for="(servico, index) in this.servicos" :key="index">
     <div>
