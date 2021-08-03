@@ -9,7 +9,7 @@
   <div class="flex flex-auto" style="padding-left: 4vw; padding-top: 4vw;">
     <h3 style="font-size: 4vw; padding-top: 7vw;">DESIGN QUE CONSTRÓI</h3>
     <hr class="flex-grow">
-    <h3 class="z-50 text-center" style="font-size: 4vw; padding-right: 5vw;">CONFIANÇA<br> <spam class="efeito">DIÁLOGO</spam><br> FIDELIDADE<br> INCLUSÃO</h3>
+    <h3 class="z-50 text-center" style="font-size: 4vw; padding-right: 5vw;">CONFIANÇA<br> DIÁLOGO<br> FIDELIDADE<br> INCLUSÃO</h3>
   </div>
   </section>
 </template>

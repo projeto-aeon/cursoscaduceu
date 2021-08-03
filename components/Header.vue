@@ -7,7 +7,7 @@
     <ul class="">
       <a class="p-1 mudar-amarelo" href="/">Home</a>
       <a class="p-1 mudar-amarelo" href="#sobre">Sobre Nós</a>
-      <a class="p-1 mudar-amarelo" href="#servicos">Serviços</a>
+      <a class="p-1 mudar-amarelo" href="#Cursos">Cursos</a>
     </ul>
       <div class="flex-grow"></div>
     <div class="flex flex-row">

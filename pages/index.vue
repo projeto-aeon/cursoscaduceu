@@ -1,16 +1,16 @@
 <template>
 <div>
   <Principal />
-  <Equipe />
+  <Cursos />
   <Sobre />
-  <Servicos />
 </div>
 </template>
 
 <script lang="ts">
 import Vue from 'vue'
+import Cursos from '~/components/Cursos.vue'
 import Principal from '~/components/Principal.vue'
 
 export default Vue.extend({
-  components: { Principal },})
+  components: { Principal, Cursos },})
 </script>

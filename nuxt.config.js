@@ -5,7 +5,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'caduceuartes',
+    title: 'cursoscaduceu',
     htmlAttrs: {
       lang: 'pt-br'
     },
@@ -51,8 +51,11 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
+    '@nuxtjs/axios',
   ],
-
+  axios: {
+    baseURL: 'http://blog.cursoscaduceu.com.br/wp-json/wp/v2'
+  },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
   }
