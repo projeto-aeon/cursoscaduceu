@@ -54,7 +54,7 @@ export default {
     '@nuxtjs/axios',
   ],
   axios: {
-    baseURL: 'http://cursoscaduceu.com.br/wordpress/wp-json/wp/v2'
+    baseURL: 'http://cursoscaduceu.com.br/wordpress/wp-json/wp/v2/'
   },
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
